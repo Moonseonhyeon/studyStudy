@@ -1,4 +1,4 @@
-package lotteryl;
+package lottery;
 
 import java.util.HashSet;
 import java.util.Iterator;
